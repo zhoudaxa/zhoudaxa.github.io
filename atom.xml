@@ -3,11 +3,11 @@
   <title>周大侠&#39;Blog</title>
   
   <subtitle>生命不息，折腾不止。</subtitle>
-  <link href="https://zhoudaxa.github.io/atom.xml" rel="self"/>
+  <link href="https://www.zoug.xyz/atom.xml" rel="self"/>
   
-  <link href="https://zhoudaxa.github.io/"/>
-  <updated>2022-09-08T05:34:55.156Z</updated>
-  <id>https://zhoudaxa.github.io/</id>
+  <link href="https://www.zoug.xyz/"/>
+  <updated>2022-09-09T03:53:55.634Z</updated>
+  <id>https://www.zoug.xyz/</id>
   
   <author>
     <name>周大侠</name>
@@ -17,9 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>建站流程</title>
+    <link href="https://www.zoug.xyz/posts/607b707e.html"/>
+    <id>https://www.zoug.xyz/posts/607b707e.html</id>
+    <published>2022-09-09T03:51:01.000Z</published>
+    <updated>2022-09-09T03:53:55.634Z</updated>
+    
+    <content type="html"><![CDATA[<p>npm淘宝镜像源</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;npm淘宝镜像源&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://zhoudaxa.github.io/posts/4a17b156.html"/>
-    <id>https://zhoudaxa.github.io/posts/4a17b156.html</id>
+    <link href="https://www.zoug.xyz/posts/4a17b156.html"/>
+    <id>https://www.zoug.xyz/posts/4a17b156.html</id>
     <published>2022-09-08T05:21:46.439Z</published>
     <updated>2022-09-08T05:34:55.156Z</updated>
     
