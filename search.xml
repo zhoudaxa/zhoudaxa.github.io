@@ -81,11 +81,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-FdGYQZXg" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
@@ -114,22 +114,11 @@
     
     
     <entry>
-      <title>doraemon</title>
-      <link href="/Gallery/doraemon/index.html"/>
-      <url>/Gallery/doraemon/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s2.loli.net/2022/09/12/eRqOSM6Tpu18gKB.jpg" alt=""></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[    <div id="aplayer-gAnlQfSe" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -152,6 +141,17 @@
       <url>/Gallery/wallpaper/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s2.loli.net/2022/09/12/jndtXHSFuhrobq1.png" alt=""></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>doraemon</title>
+      <link href="/Gallery/doraemon/index.html"/>
+      <url>/Gallery/doraemon/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://s2.loli.net/2022/09/12/eRqOSM6Tpu18gKB.jpg" alt=""></p>          </div>]]></content>
       
     </entry>
     
