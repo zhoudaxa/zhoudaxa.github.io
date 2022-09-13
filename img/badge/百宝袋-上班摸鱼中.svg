@@ -1,0 +1,25 @@
+<svg width="130" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="安知鱼-上班摸鱼中">
+ <defs>
+  <linearGradient id="a" x2="0" y2="100%">
+   <stop offset="0" stop-color="#fcfcfc" stop-opacity="0"/>
+   <stop offset="1" stop-opacity="0.1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="#d5d5d5" id="svg_1">
+   <rect fill="#fcfcfc" x="0.5" y="0.5" width="60" height="19" rx="2" id="svg_2"/>
+   <rect x="66.5" y="0.5" width="63" height="19" rx="2" fill="#fafafa" id="svg_3"/>
+   <path stroke="#fafafa" d="m66,7.5l0.5,0l0,5l-0.5,0l0,-5z" id="svg_4"/>
+   <path d="m66.5,6.5l-3,3l0,1l3,3" stroke="d5d5d5" fill="#fafafa" id="svg_5"/>
+  </g>
+  <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNDI4NUY0IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R29vZ2xlIERyaXZlPC90aXRsZT48cGF0aCBkPSJNMTIuMDEgMS40ODVjLTIuMDgyIDAtMy43NTQuMDItMy43NDMuMDQ3LjAxLjAyIDEuNzA4IDMuMDAxIDMuNzc0IDYuNjJsMy43NiA2LjU3NGgzLjc2YzIuMDgxIDAgMy43NTMtLjAyIDMuNzQyLS4wNDctLjAwNS0uMDItMS43MDgtMy4wMDEtMy43NzUtNi42MmwtMy43Ni02LjU3NHptLTQuNzYgMS43M2E3ODkuODI4IDc4OS44NjEgMCAwIDAtMy42MyA2LjMxOUwwIDE1Ljg2OGwxLjg5IDMuMjk4IDEuODg1IDMuMjk3IDMuNjItNi4zMzUgMy42MTgtNi4zMy0xLjg4LTMuMjg3QzguMSA0LjcwNCA3LjI1NSAzLjIyIDcuMjUgMy4yMTR6bTIuMjU5IDEyLjY1My0uMjAzLjM0OGMtLjExNC4xOTgtLjk2IDEuNjcyLTEuODggMy4yODdhNDIzLjkzIDQyMy45NDggMCAwIDEtMS42OTggMi45N2MtLjAxLjAyNiAzLjI0LjA0MiA3LjIyMi4wNDJoNy4yNDRsMS43OTYtMy4xNTdjLjk5Mi0xLjczNCAxLjg1LTMuMjMgMS45MDYtMy4zMjNsLjEwNC0uMTY3aC03LjI0OXoiLz48L3N2Zz4=" id="svg_6"/>
+  <g stroke="null" aria-hidden="true" fill="#333" text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" text-rendering="geometricPrecision" font-weight="700" font-size="110" id="svg_7">
+   <rect stroke="#d5d5d5" fill="url(#a)" x="0.5" y="0.5" width="60" height="19" rx="2" id="svg_8"/>
+   <text style="cursor: move;" stroke="null" aria-hidden="true" x="385" y="147.9798" fill="#fff" transform="translate(0 0.20202) scale(0.1 0.1)" textLength="330" id="svg_9">百宝袋</text>
+   <text stroke="null" x="385" y="140" transform="translate(0 -0.20202) scale(0.1 0.1)" textLength="330" id="svg_10">百宝袋</text>
+   <text stroke="null" aria-hidden="true" x="975" y="147.9798" fill="#fff" transform="translate(0 0.20202) scale(0.1 0.1)" textLength="550" id="svg_11">上班摸鱼中</text>
+   <text stroke="null" x="975" y="137.9798" transform="translate(0 0.20202) scale(0.1 0.1)" textLength="550" id="svg_12">上班摸鱼中</text>
+  </g>
+ </g>
+</svg>
