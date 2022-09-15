@@ -119,17 +119,6 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/js/ali_font.js"/>
       <url>/js/ali_font.js</url>
@@ -141,11 +130,33 @@
     
     
     <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<div align=center class="aspect-ratio"><iframe src="https://www.pornhub.com/embed/ph6300f84d6b8e3" frameborder="0" width="1200" height="720" scrolling="no" allowfullscreen></iframe></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>music</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-LVBRjnni" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-wjeKsqUM" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
@@ -163,11 +174,11 @@
     
     
     <entry>
-      <title>girls</title>
-      <link href="/Gallery/girls/index.html"/>
-      <url>/Gallery/girls/index.html</url>
+      <title>doraemon</title>
+      <link href="/Gallery/doraemon/index.html"/>
+      <url>/Gallery/doraemon/index.html</url>
       
-        <content type="html"><![CDATA[<div id='SF' class='carousel'><div id="SF-drag-container" class="drag-container"><div id="SF-spin-container" class="spin-container"><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_09-52-04.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-15_09-28-25.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_22-10-34.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-49%20(2" alt="">.jpg)<br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-49.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-50.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-51%20(2" alt="">.jpg)<br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-51.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-52%20(2" alt="">.jpg)<br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-52.jpg" alt=""><p>strike freedom</p></div><div id="SF-carousel-ground" class="carousel-ground"></div></div></div><script type="text/javascript">carouselinit('SF');</script>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/eRqOSM6Tpu18gKB.jpg" alt=""></p>          </div>]]></content>
       
     </entry>
     
@@ -185,11 +196,11 @@
     
     
     <entry>
-      <title>doraemon</title>
-      <link href="/Gallery/doraemon/index.html"/>
-      <url>/Gallery/doraemon/index.html</url>
+      <title>girls</title>
+      <link href="/Gallery/girls/index.html"/>
+      <url>/Gallery/girls/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/eRqOSM6Tpu18gKB.jpg" alt=""></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div id='SF' class='carousel'><div id="SF-drag-container" class="drag-container"><div id="SF-spin-container" class="spin-container"><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_09-52-04.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-15_09-28-25.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_22-10-34.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-49%20(2" alt="">.jpg)<br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-49.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-50.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-51%20(2" alt="">.jpg)<br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-51.jpg" alt=""><br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-52%20(2" alt="">.jpg)<br><img src="https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/photo_2022-09-14_17-35-52.jpg" alt=""><p>strike freedom</p></div><div id="SF-carousel-ground" class="carousel-ground"></div></div></div><script type="text/javascript">carouselinit('SF');</script>]]></content>
       
     </entry>
     
