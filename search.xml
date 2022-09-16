@@ -83,17 +83,6 @@
     
     
     <entry>
-      <title>相册</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/MbJ91wUujcptV4C.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">FAMILY</div>  <p>关于family的图片</p>  <a href='/Gallery/family'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
@@ -105,11 +94,11 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>相册</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<div align=center class="aspect-ratio">  <iframe src="https://player.bilibili.com/player.html?aid=468387784&&page=1&as_wide=1&high_quality=1&danmaku=0"   scrolling="no"   border="0"   frameborder="no"   framespacing="0"   high_quality=1  danmaku=1   allowfullscreen="true">   </iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.jsdelivr.net/gh/zhoudaxa/picture@main/img/MbJ91wUujcptV4C.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">FAMILY</div>  <p>关于family的图片</p>  <a href='/Gallery/family'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -127,6 +116,17 @@
     
     
     <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<div align=center class="aspect-ratio">  <iframe src="https://player.bilibili.com/player.html?aid=468387784&&page=1&as_wide=1&high_quality=1&danmaku=0"   scrolling="no"   border="0"   frameborder="no"   framespacing="0"   high_quality=1  danmaku=1   allowfullscreen="true">   </iframe></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友情链接</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -138,11 +138,11 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-snlAeqjv" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -160,11 +160,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-XhmBakPn" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
