@@ -6,7 +6,7 @@
   <link href="https://www.zoug.xyz/atom.xml" rel="self"/>
   
   <link href="https://www.zoug.xyz/"/>
-  <updated>2022-09-17T10:44:31.995Z</updated>
+  <updated>2022-09-17T13:59:43.519Z</updated>
   <id>https://www.zoug.xyz/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github图床</title>
+    <link href="https://www.zoug.xyz/posts/55ab6f15.html"/>
+    <id>https://www.zoug.xyz/posts/55ab6f15.html</id>
+    <published>2022-09-17T13:30:15.000Z</published>
+    <updated>2022-09-17T13:59:43.519Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="动手搭建Github图床"><a href="#动手搭建Github图床" class="headerlink" title="动手搭建Github图床"></a>动手搭建Github图床</h2><ol><li>新建 Github 仓库，命名为resource；</li><li>发布一个 release 版本，点击 Create a new release ，填入master，点击 Publish release 发布；  </li><li>打开 Github 点击 setting 进入到 Developer settings 中点击 Generate new token，Note填入for-picgo，Selecte scropes勾选repo，最后下拉到页面最低端点击update token按钮创建token；</li><li>下载安装PicGo，配置GitHub图床，仓库名：用户名/仓库名、设定分支名：main、设定Token：填入获取的Token、指定储存路径：img/、设定自定义域名：<a href="https://cdn.jsdelivr.net/gh/【用户名】/【仓库名】@main">https://cdn.jsdelivr.net/gh/【用户名】/【仓库名】@main</a>  </li><li>打开 Typora 选择文件选择偏好设置,选择图像将你的上传服务设置为 PicGo,接下来就可以愉快的在 Typora 中高效的上传图床了,将本地图片插入到 Typora 中，然后右击图片选中上传图片就ok了,图片会上传到Github中。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;动手搭建Github图床&quot;&gt;&lt;a href=&quot;#动手搭建Github图床&quot; class=&quot;headerlink&quot; title=&quot;动手搭建Github图床&quot;&gt;&lt;/a&gt;动手搭建Github图床&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;新建 Github 仓库，命名为resource</summary>
+      
+    
+    
+    
+    <category term="前端" scheme="https://www.zoug.xyz/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="教程" scheme="https://www.zoug.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>西方文论</title>
