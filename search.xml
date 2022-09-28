@@ -118,33 +118,11 @@
     
     
     <entry>
-      <title>相册</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.jsdelivr.net/npm/zhoudaxa/img/2021-07-25%20211228.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">小黑</div>  <p>关于小黑的图片</p>  <a href='/Gallery/cat'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<h3 id=""><a href="#" class="headerlink" title=""></a><div class='checkbox'><input type="radio" />            <p>关于我为啥要建这样一个博客</p>            </div></h3><p>一开始接触博客，是在网上找各种教程的时候，看到很多有用的教程都是更新在私人博客里。然后就被各路大神的精美博客所迷住，就有了一个我也要建立博客的想法。<br>我是一个不喜欢发微信朋友圈的人，一年都看不到一条的那种，主要朋友圈是一个大家各种炫富、晒娃、打广告的地方，我想发的东西实在不适合这么一个环境，又或者说是这个环境容不下我。<br>所以这里是我记笔记、写文章、分享生活的地方。以前喜欢写在本子上，不过写完就没有再看过了，都不知道仍在哪个角落了。博客是储存在互联网上的，可以随时翻阅，这次希望坚持下去，做一个十年老站。</p><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class='checkbox'><input type="radio" />            <p>关于我</p>            </div></h3><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><div class='checkbox yellow'><input type="radio" />            <p>姓名</p>            </div></h4><p>网站没有备案，毕竟我是喜欢白嫖的人，域名续费太贵了，一年换一个域名又不是不行，反正也没什么人看。<br>分享一首诗。<br>原文：<br><em>When you are old<br>—- William Butler Yeats<br>When you are old and grey and full of sleep,<br>And nodding by the fire，take down this book,<br>And slowly read,and dream of the soft look<br>Your eyes had once,and of their shadows deep;<br>How many loved your moments of glad grace,<br>And loved your beauty with love false or true,<br>But one man loved the pilgrim Soul in you<br>And loved the sorrows of your changing face;<br>And bending down beside the glowing bars,<br>Murmur,a little sadly,how Love fled<br>And paced upon the mountains overhead<br>And hid his face amid a crowd of stars.</em><br>译本：<br><div class='poem'><div class='poem-title'>当你老了</div><div class='poem-author'>叶芝</div><p>当你老了，满头华发，睡意昏沉，<br>在炉火旁打盹，请取下这本书，<br>慢慢读，梦见你的双眸曾经有过<br>温柔的凝视，和深邃的倒影；<br>多少人爱你优雅灿烂的时刻，<br>爱你的美丽，怀着假意或真情，<br>只有一个男人爱你身体里朝圣者的灵魂，<br>爱你红颜已改的悲伤；<br>在炽热的卢珊边弯下腰来；<br>喃喃低语，有点感伤，爱神怎样逃离<br>在高过头顶的群峰之上，他缓慢而行<br>将脸隐藏在繁星之间。</p></div></p><h4 id="-3"><a href="#-3" class="headerlink" title=""></a><div class='checkbox yellow'><input type="radio" />            <p>生日</p>            </div></h4><p>生日是1995年10月初6，我过生日一直是过农历，其实准确点我妈说我是初五出生的，不过这么多年都过的初六的生日就按照初六了。  </p><h4 id="-4"><a href="#-4" class="headerlink" title=""></a><div class='checkbox yellow'><input type="radio" />            <p>兴趣爱好</p>            </div></h4><p>兴趣爱好就是喜欢折腾。<br><div class='checkbox blue checked'><input type="checkbox" checked="checked"/>            <p>做自己喜欢做的事</p>            </div><br><div class='checkbox times red checked'><input type="checkbox" checked="checked"/>            <p>比较擅长的就是PS、Pr、Ae、Au、Ai、Dw、An、Id等软件的安装与卸载🎃</p>            </div><br><div class='checkbox times red checked'><input type="checkbox" checked="checked"/>            <p>精通Html、CSS、JavaScript、PHP、Java、Python、C、C++、C#、Go、TypeScript等单词的拼写🎲</p>            </div><br><div class='checkbox times red checked'><input type="checkbox" checked="checked"/>            <p>熟悉Windows、Linux、Mac、Android、IOS等系统的开关机👻</p>            </div></p><h3 id="-5"><a href="#-5" class="headerlink" title=""></a><div class='checkbox'><input type="radio" />            <p>分享</p>            </div></h3><p>B站就发过这一个视频，拍摄剪辑还是太累了。</p><div align=center class="aspect-ratio">  <iframe src="https://player.bilibili.com/player.html?aid=468387784&&page=1&as_wide=1&high_quality=1&danmaku=0"   scrolling="no"   border="0"   frameborder="no"   framespacing="0"   high_quality=1  danmaku=1   allowfullscreen="true">   </iframe></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -162,11 +140,33 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>相册</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="我的友链"><a href="#我的友链" class="headerlink" title="我的友链"></a>我的友链</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- name: 周大侠の百宝袋</span><br><span class="line">  link: https://www.zoug.xyz/</span><br><span class="line">  avatar: https://cdn.jsdelivr.net/npm/zhoudaxa/img/avatar.jpg</span><br><span class="line">  descr: 做自己想做的</span><br><span class="line">  siteshot: https://cdn.jsdelivr.net/npm/zhoudaxa/img/202209240018292.jpg</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.jsdelivr.net/npm/zhoudaxa/img/2021-07-25%20211228.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">小黑</div>  <p>关于小黑的图片</p>  <a href='/Gallery/cat'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>资源分享</title>
+      <link href="/resource/index.html"/>
+      <url>/resource/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip key"><p>破解软件</p></div><div class="table-container"><table><thead><tr><th style="text-align:center">软件名称</th><th style="text-align:center">网盘地址</th><th style="text-align:center">描述</th></tr></thead><tbody><tr><td style="text-align:center">Clash for Windows</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-MZzQ3">https://www.123pan.com/s/jZd0Vv-MZzQ3</a></td><td style="text-align:center">科学上网</td></tr><tr><td style="text-align:center">v2rayN</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-gZzQ3">https://www.123pan.com/s/jZd0Vv-gZzQ3</a></td><td style="text-align:center">科学上网</td></tr><tr><td style="text-align:center">穹顶穿越</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-3ezQ3">https://www.123pan.com/s/jZd0Vv-3ezQ3</a></td><td style="text-align:center">科学上网</td></tr><tr><td style="text-align:center">Adobe全家桶</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-7ZzQ3">https://www.123pan.com/s/jZd0Vv-7ZzQ3</a></td><td style="text-align:center">PS、PR、AI、AU、AE、AD</td></tr><tr><td style="text-align:center">AutoCAD</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-bZzQ3">https://www.123pan.com/s/jZd0Vv-bZzQ3</a></td><td style="text-align:center">CAD2022</td></tr><tr><td style="text-align:center">天正建筑</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-cZzQ3">https://www.123pan.com/s/jZd0Vv-cZzQ3</a></td><td style="text-align:center">T20V8.0</td></tr><tr><td style="text-align:center">CAD快速看图</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-ZZzQ3">https://www.123pan.com/s/jZd0Vv-ZZzQ3</a></td><td style="text-align:center">广联达CAD快速看图 v5.9.4.60</td></tr><tr><td style="text-align:center">Internet Download Manager</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-pZzQ3">https://www.123pan.com/s/jZd0Vv-pZzQ3</a></td><td style="text-align:center">IDM下载器</td></tr><tr><td style="text-align:center">HEU KMS Activator</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-aZzQ3">https://www.123pan.com/s/jZd0Vv-aZzQ3</a></td><td style="text-align:center">Windows激活</td></tr><tr><td style="text-align:center">Defender Control</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-JZzQ3">https://www.123pan.com/s/jZd0Vv-JZzQ3</a></td><td style="text-align:center">关闭Windows安全</td></tr><tr><td style="text-align:center">W11ClassicMenu</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-GczQ3">https://www.123pan.com/s/jZd0Vv-GczQ3</a></td><td style="text-align:center">WIN传统右键</td></tr><tr><td style="text-align:center">Windows超级管理器</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-ZczQ3">https://www.123pan.com/s/jZd0Vv-ZczQ3</a></td><td style="text-align:center">一处不同，则处处不同</td></tr><tr><td style="text-align:center">CCleaner</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-nZzQ3">https://www.123pan.com/s/jZd0Vv-nZzQ3</a></td><td style="text-align:center">Windows清理</td></tr><tr><td style="text-align:center">Revo Uninstaller Pro</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-fZzQ3">https://www.123pan.com/s/jZd0Vv-fZzQ3</a></td><td style="text-align:center">Windows软件卸载</td></tr><tr><td style="text-align:center">DiskGenius</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-sZzQ3">https://www.123pan.com/s/jZd0Vv-sZzQ3</a></td><td style="text-align:center">磁盘管理</td></tr><tr><td style="text-align:center">PotPlayer</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-BZzQ3">https://www.123pan.com/s/jZd0Vv-BZzQ3</a></td><td style="text-align:center">视频播放器</td></tr><tr><td style="text-align:center">ChampR</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-IZzQ3">https://www.123pan.com/s/jZd0Vv-IZzQ3</a></td><td style="text-align:center">LOL天赋装备导入</td></tr><tr><td style="text-align:center">WebStorm</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-CZzQ3">https://www.123pan.com/s/jZd0Vv-CZzQ3</a></td><td style="text-align:center">前端管理</td></tr><tr><td style="text-align:center">PicGo</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-WZzQ3">https://www.123pan.com/s/jZd0Vv-WZzQ3</a></td><td style="text-align:center">图床管理</td></tr><tr><td style="text-align:center">Typora</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-NZzQ3">https://www.123pan.com/s/jZd0Vv-NZzQ3</a></td><td style="text-align:center">Markdown语法</td></tr><tr><td style="text-align:center">esirPG</td><td style="text-align:center"><a href="https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh">https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh</a></td><td style="text-align:center">openwrt固件</td></tr><tr><td style="text-align:center">padavan</td><td style="text-align:center"><a href="https://opt.cn2qq.com/padavan/">https://opt.cn2qq.com/padavan/</a></td><td style="text-align:center">老毛子固件</td></tr></tbody></table></div>]]></content>
       
     </entry>
     
@@ -184,17 +184,6 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[    <div id="aplayer-aIcbMHTv" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/js/ali_font.js"/>
       <url>/js/ali_font.js</url>
@@ -206,22 +195,33 @@
     
     
     <entry>
-      <title>资源分享</title>
-      <link href="/resource/index.html"/>
-      <url>/resource/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="tip key"><p>破解软件</p></div><div class="table-container"><table><thead><tr><th style="text-align:center">软件名称</th><th style="text-align:center">网盘地址</th><th style="text-align:center">描述</th></tr></thead><tbody><tr><td style="text-align:center">Clash for Windows</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-MZzQ3">https://www.123pan.com/s/jZd0Vv-MZzQ3</a></td><td style="text-align:center">科学上网</td></tr><tr><td style="text-align:center">v2rayN</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-gZzQ3">https://www.123pan.com/s/jZd0Vv-gZzQ3</a></td><td style="text-align:center">科学上网</td></tr><tr><td style="text-align:center">Adobe全家桶</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-7ZzQ3">https://www.123pan.com/s/jZd0Vv-7ZzQ3</a></td><td style="text-align:center">PS、PR、AI、AU、AE、AD</td></tr><tr><td style="text-align:center">AutoCAD</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-bZzQ3">https://www.123pan.com/s/jZd0Vv-bZzQ3</a></td><td style="text-align:center">CAD2022</td></tr><tr><td style="text-align:center">天正建筑</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-cZzQ3">https://www.123pan.com/s/jZd0Vv-cZzQ3</a></td><td style="text-align:center">T20V8.0</td></tr><tr><td style="text-align:center">CAD快速看图</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-ZZzQ3">https://www.123pan.com/s/jZd0Vv-ZZzQ3</a></td><td style="text-align:center">广联达CAD快速看图 v5.9.4.60</td></tr><tr><td style="text-align:center">Internet Download Manager</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-pZzQ3">https://www.123pan.com/s/jZd0Vv-pZzQ3</a></td><td style="text-align:center">IDM下载器</td></tr><tr><td style="text-align:center">HEU KMS Activator</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-aZzQ3">https://www.123pan.com/s/jZd0Vv-aZzQ3</a></td><td style="text-align:center">Windows激活</td></tr><tr><td style="text-align:center">Defender Control</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-JZzQ3">https://www.123pan.com/s/jZd0Vv-JZzQ3</a></td><td style="text-align:center">关闭Windows安全</td></tr><tr><td style="text-align:center">W11ClassicMenu</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-GczQ3">https://www.123pan.com/s/jZd0Vv-GczQ3</a></td><td style="text-align:center">WIN传统右键</td></tr><tr><td style="text-align:center">CCleaner</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-nZzQ3">https://www.123pan.com/s/jZd0Vv-nZzQ3</a></td><td style="text-align:center">Windows清理</td></tr><tr><td style="text-align:center">Revo Uninstaller Pro</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-fZzQ3">https://www.123pan.com/s/jZd0Vv-fZzQ3</a></td><td style="text-align:center">Windows软件卸载</td></tr><tr><td style="text-align:center">DiskGenius</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-sZzQ3">https://www.123pan.com/s/jZd0Vv-sZzQ3</a></td><td style="text-align:center">磁盘管理</td></tr><tr><td style="text-align:center">PotPlayer</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-BZzQ3">https://www.123pan.com/s/jZd0Vv-BZzQ3</a></td><td style="text-align:center">视频播放器</td></tr><tr><td style="text-align:center">ChampR</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-IZzQ3">https://www.123pan.com/s/jZd0Vv-IZzQ3</a></td><td style="text-align:center">LOL天赋装备导入</td></tr><tr><td style="text-align:center">WebStorm</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-CZzQ3">https://www.123pan.com/s/jZd0Vv-CZzQ3</a></td><td style="text-align:center">前端管理</td></tr><tr><td style="text-align:center">PicGo</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-WZzQ3">https://www.123pan.com/s/jZd0Vv-WZzQ3</a></td><td style="text-align:center">图床管理</td></tr><tr><td style="text-align:center">Typora</td><td style="text-align:center"><a href="https://www.123pan.com/s/jZd0Vv-NZzQ3">https://www.123pan.com/s/jZd0Vv-NZzQ3</a></td><td style="text-align:center">Markdown语法</td></tr><tr><td style="text-align:center">esirPG</td><td style="text-align:center"><a href="https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh">https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh</a></td><td style="text-align:center">openwrt固件</td></tr><tr><td style="text-align:center">padavan</td><td style="text-align:center"><a href="https://opt.cn2qq.com/padavan/">https://opt.cn2qq.com/padavan/</a></td><td style="text-align:center">老毛子固件</td></tr></tbody></table></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="我的友链"><a href="#我的友链" class="headerlink" title="我的友链"></a>我的友链</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- name: 周大侠の百宝袋</span><br><span class="line">  link: https://www.zoug.xyz/</span><br><span class="line">  avatar: https://cdn.jsdelivr.net/npm/zhoudaxa/img/avatar.jpg</span><br><span class="line">  descr: 做自己想做的</span><br><span class="line">  siteshot: https://cdn.jsdelivr.net/npm/zhoudaxa/img/202209240018292.jpg</span><br></pre></td></tr></table></figure>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[    <div id="aplayer-oJUpXCsC" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="7634913120" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
